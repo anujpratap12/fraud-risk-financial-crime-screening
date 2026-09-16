@@ -1,4 +1,4 @@
-# Fraud Risk & Transaction Anomaly Investigation System
+# fraud-risk-financial-crime-screening
 
 A Python-based transaction risk screening project that analyzes synthetic banking transactions, identifies unusual patterns, and prioritizes transactions for review.
 
